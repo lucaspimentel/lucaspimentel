@@ -1,6 +1,6 @@
 <!-- ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspimentel&hide=stars&show_icons=true) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspimentel&layout=compact)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspimentel&layout=compact) -->
 
 <!--
 Work-related reposirories
